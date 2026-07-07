@@ -28,7 +28,7 @@
 
         html,
         body {
-            height: 100%
+            height: 99%
         }
 
         body {
